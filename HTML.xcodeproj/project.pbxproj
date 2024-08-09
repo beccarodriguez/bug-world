@@ -8,7 +8,6 @@
 
 /* Begin PBXFileReference section */
 		941C14CB2C3DD459002EC988 /* index.HTML */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.HTML; sourceTree = "<group>"; };
-		941C14E32C516220002EC988 /* Website_Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Website_Media.xcassets; path = ../Website_Media.xcassets; sourceTree = "<group>"; };
 		941C14EB2C575718002EC988 /* sound.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sound.html; sourceTree = "<group>"; };
 		941C14EE2C586A7B002EC988 /* ceramics.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = ceramics.html; sourceTree = "<group>"; };
 		941C14EF2C587062002EC988 /* paint.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = paint.html; sourceTree = "<group>"; };
@@ -17,6 +16,18 @@
 		941C14F22C589E8F002EC988 /* printshop.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = printshop.html; sourceTree = "<group>"; };
 		94A8FA442C63C54B00E66FD0 /* studio.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = studio.html; sourceTree = "<group>"; };
 		94A8FA452C64515600E66FD0 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
+		94D3425A2C65C21D005AFEB3 /* bio_pic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bio_pic.jpg; path = Website_Media.xcassets/bio_pic.jpg; sourceTree = "<group>"; };
+		94D3425B2C65C21D005AFEB3 /* dreamhello.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dreamhello.jpg; path = Website_Media.xcassets/dreamhello.jpg; sourceTree = "<group>"; };
+		94D3425C2C65C21D005AFEB3 /* Portfolio_HTML */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Portfolio_HTML; path = Website_Media.xcassets/Portfolio_HTML; sourceTree = "<group>"; };
+		94D3425D2C65C21D005AFEB3 /* Eyedrum_224 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Eyedrum_224; path = Website_Media.xcassets/Eyedrum_224; sourceTree = "<group>"; };
+		94D3425E2C65C21D005AFEB3 /* bio_photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bio_photo.jpg; path = Website_Media.xcassets/bio_photo.jpg; sourceTree = "<group>"; };
+		94D3425F2C65C21E005AFEB3 /* CV2024_WEB.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = CV2024_WEB.pdf; path = Website_Media.xcassets/CV2024_WEB.pdf; sourceTree = "<group>"; };
+		94D342602C65C21E005AFEB3 /* Illustration */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Illustration; path = Website_Media.xcassets/Illustration; sourceTree = "<group>"; };
+		94D342612C65C21E005AFEB3 /* Ecosystems */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Ecosystems; path = Website_Media.xcassets/Ecosystems; sourceTree = "<group>"; };
+		94D342622C65C21E005AFEB3 /* mOST1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mOST1.jpg; path = Website_Media.xcassets/mOST1.jpg; sourceTree = "<group>"; };
+		94D342632C65C21E005AFEB3 /* IBM_Plex_Mono */ = {isa = PBXFileReference; lastKnownFileType = folder; name = IBM_Plex_Mono; path = Website_Media.xcassets/IBM_Plex_Mono; sourceTree = "<group>"; };
+		94D342642C65C21E005AFEB3 /* mOST_track.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = mOST_track.m4a; path = Website_Media.xcassets/mOST_track.m4a; sourceTree = "<group>"; };
+		94D342652C65C21E005AFEB3 /* Workshops */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Workshops; path = Website_Media.xcassets/Workshops; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -32,7 +43,18 @@
 				941C14EE2C586A7B002EC988 /* ceramics.html */,
 				941C14EB2C575718002EC988 /* sound.html */,
 				941C14CB2C3DD459002EC988 /* index.HTML */,
-				941C14E32C516220002EC988 /* Website_Media.xcassets */,
+				94D3425E2C65C21D005AFEB3 /* bio_photo.jpg */,
+				94D3425A2C65C21D005AFEB3 /* bio_pic.jpg */,
+				94D3425F2C65C21E005AFEB3 /* CV2024_WEB.pdf */,
+				94D3425B2C65C21D005AFEB3 /* dreamhello.jpg */,
+				94D342612C65C21E005AFEB3 /* Ecosystems */,
+				94D3425D2C65C21D005AFEB3 /* Eyedrum_224 */,
+				94D342632C65C21E005AFEB3 /* IBM_Plex_Mono */,
+				94D342602C65C21E005AFEB3 /* Illustration */,
+				94D342642C65C21E005AFEB3 /* mOST_track.m4a */,
+				94D342622C65C21E005AFEB3 /* mOST1.jpg */,
+				94D3425C2C65C21D005AFEB3 /* Portfolio_HTML */,
+				94D342652C65C21E005AFEB3 /* Workshops */,
 			);
 			sourceTree = "<group>";
 		};
